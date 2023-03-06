@@ -1,0 +1,33 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    background-color: cornsilk;
+    
+}
+
+.Logo{
+    display: flex;
+    height: 60px;
+}
+
+
+/* carrito */
+.carrito{
+    display: flex;
+ 
+   
+}
+
+/* Icono de carrito */
+.carrito .icon{
+    display: flex;
+    height: 30px;
+    width: auto;
+  color: red;
+  margin: 5px;
+  padding: auto;
+}
+
+  
+
+
